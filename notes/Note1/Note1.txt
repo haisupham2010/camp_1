@@ -1,0 +1,5 @@
+import : obj_bien_xoa
+Bắt sự kiện :
+Khi nắp bay vào vị trí cái đĩa, khi nó đã chạm cái đĩa thì ta có chạy :
+tìm key : Đã hoàn thành
+import : 
